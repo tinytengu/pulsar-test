@@ -1,4 +1,3 @@
-from asyncio import ProactorEventLoop
 from rest_framework import routers
 
 from .views import ProductViewSet
